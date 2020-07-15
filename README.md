@@ -10,7 +10,7 @@
 ### Compile
 
 ```
-$ gcc ushell.c -o ushell
+$ gcc ushell.c -o ushell -O3
 $ ./ushell
 ```
 
