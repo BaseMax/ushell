@@ -87,7 +87,9 @@ int main(int argc, char **argv, char** env) {
     char **args;
     int status;
     do {
+        printf("\x1B[32m");//yellow
         printf("ubash# ");
+        printf("\x1B[0m");//normal
         command = ubash_read();
         args = ubash_split(command);
         if(strcmp(command, "exit")==0) {
