@@ -21,6 +21,10 @@ $ sudo cp ushell /usr/bin/
 $ ushell
 ```
 
+### TODO
+
+- Detect git project directory and display branch
+
 ---------
 
 # Max Base
