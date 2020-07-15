@@ -5,6 +5,20 @@
 
 — Richard Feynman: What I cannot create, I do not understand. 
 
+### Compile
+
+```
+$ gcc ushell.c -o ushell
+$ ./ushell
+```
+
+### Copy ubash into your main binary directory system
+
+```
+$ sudo cp ushell /usr/bin/
+$ ushell
+```
+
 ---------
 
 # Max Base
