@@ -2,6 +2,9 @@
 
 **ubash** is a simple implementation of a shell in C. It demonstrates the basics of how a shell works. It's how you can write a `shell` using **100 line** of code!
 
+
+— Richard Feynman: What I cannot create, I do not understand. 
+
 ---------
 
 # Max Base
